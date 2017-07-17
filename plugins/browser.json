@@ -15,6 +15,9 @@
         },
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "com.phonegap.gungchil_isp"
+        },
+        "onesignal-cordova-plugin": {
+            "PACKAGE_NAME": "com.phonegap.gungchil_isp"
         }
     },
     "dependent_plugins": {}
